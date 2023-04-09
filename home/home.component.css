@@ -1,0 +1,83 @@
+
+
+
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* .connect{
+  font-size: large;
+  font-weight: bold;
+}
+.report{
+  margin-top: 100px;
+  text-align: center;
+  color:whitesmoke;
+  border: 1px solid white;
+  margin-top: 15px;
+  padding: 10px;
+
+}
+
+.report a{
+  color:whitesmoke;
+  font-weight: bold;
+  font-size: larger;
+  font-variant: small-caps;
+}
+
+.all{
+  margin: auto;
+  width: 50%;
+  border: 1px solid whitesmoke;
+  padding: 10px;
+  margin-top: 30px;
+
+}
+
+.socialweb a{
+  color:aliceblue;
+  text-decoration: none;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: large;
+
+}
+.socialweb a i{
+  font-size: larger;
+  font-weight: bold;
+  border: 1px solid whitesmoke;
+  padding: 8px;
+  margin-top: 20px;
+  border-radius: 50%;
+
+}
+.socialweb{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  margin-top: 30px;
+} */
+
+.buyoption button {
+  /* background-color: blue; */
+  border: 2px solid black;
+  box-shadow: 5px 5px 0px 0px black;
+  padding:3px 25px;
+  border-radius: 8px;
+  margin-left: 900px;
+  font-weight: bold;
+  margin-top: 40px;
+  letter-spacing: 1px;
+  margin-bottom: 70px;
+
+}
+ .buyoption button:hover{
+  background-color:purple;
+  color:whitesmoke;
+}
+
+

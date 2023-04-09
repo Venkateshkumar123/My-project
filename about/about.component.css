@@ -1,0 +1,127 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.aboutpage{
+  width: 100%;
+  height:100vh;
+  overflow-x: hidden;
+}
+
+.abouthead h1{
+  text-align: center;
+  color: yellow;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+}
+
+.trending .tlist ul{
+  list-style: none;
+
+}
+
+ul .gname h2{
+  width: 100%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.description{
+  width: 100%;
+  color: white;
+  line-height: 30px;
+  font-size: large;
+  margin-left: 10px;
+  margin-bottom:35px ;
+  font-weight: 400;
+}
+
+.requirements .requirementshead{
+  width: 100%;
+  color:yellow;
+  text-align: left;
+  font-weight: bold;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-variant: small-caps;
+}
+
+.requirements{
+  /* border-right: 2px solid whitesmoke; */
+  margin-right: 55%;
+}
+.requirements ul li{
+
+  list-style: disc;
+  /* border-right: 2px solid whitesmoke; */
+
+}
+
+.requirements ul{
+  width: 100%;
+  color: whitesmoke;
+  line-height: 40px;
+  margin-left: 50px;
+
+
+}
+
+.images h1{
+  width: 100%;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  margin-top: 30px;
+
+}
+
+.imageslist  li{
+  /* border: 2px solid whitesmoke;
+  padding: 10px;
+  border-radius: 50%; */
+  margin-left: 70px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  display: inline-block;
+  /* padding-right:20px ; */
+}
+
+.price h3{
+  width: 100%;
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  font-variant: small-caps;
+ margin-left: 50px;
+ margin-bottom: 10px;
+}
+
+.price h2{
+width: fit-content;
+  color:black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  font-variant: small-caps;
+ margin-left: 50px;
+ margin-bottom: 50px;
+ border: 2px solid whitesmoke;
+ text-align: center;
+ padding:2px 20px;
+ border-radius:50%;
+ background-color: whitesmoke;
+ box-shadow: 2px 4px 4px 5px black;
+
+
+
+}

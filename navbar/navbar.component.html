@@ -1,0 +1,38 @@
+
+
+<div class="totalnav">
+<nav class="navbar navbar-expand-md navbar-dark bg-transparent">
+  <a class="navbar-brand" href="#" routerLink="/"><i class="fa-solid fa-store"></i> Store</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+  <ul class="navbar-nav"  >
+
+    <ng-container *ngIf="this.auth.isAuthenticated();then authenticated;else notAuthenticated">
+
+    </ng-container>
+
+      <ng-template #notAuthenticated >
+        <li class="nav-item"><a href="#" routerLink="/register"  class="nav-link" ><i class="fa-solid fa-registered"></i> Register</a></li>
+        <li><a class="nav-link" href="#" routerLink="/login" ><i class="fa-sharp fa-solid fa-right-to-bracket"></i> Login</a></li>
+      </ng-template>
+
+      <ng-template #authenticated>
+        <li class="nav-item"><a href="#" routerLink="/dashboard" class="nav-link" >Dashboard</a></li>
+        <li><a class="nav-link" href="#" routerLink="/login" >Categories</a></li>
+        <li><a class="nav-link" href="#" routerLink="/about" >About Us</a></li>
+        <li><a class="nav-link" href="#"  (click)="logout()" >Logout</a></li>
+      </ng-template>
+
+
+
+  </ul>
+
+  <!-- <div class="cart">
+    <a class="car-link" href="#" title="Add to cart"  ><i class="fa-solid fa-cart-shopping"></i> </a>
+  </div> -->
+
+  </div>
+</nav>
+</div>

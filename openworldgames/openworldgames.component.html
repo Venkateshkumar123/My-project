@@ -1,0 +1,43 @@
+<div class="wholepage">
+
+  <div class="heading">
+    <h1>Openworld Games</h1>
+  </div>
+
+  <div class="container" style="color:whitesmoke;">
+    <table class="table"style="color:whitesmoke;">
+      <thead style="text-align: center;">
+        <tr>
+          <th >Game Name</th>
+          <th >Genere</th>
+          <th >Description</th>
+          <th >Requirements</th>
+          <th >img</th>
+          <th>Price</th>
+          <th >Buy</th>
+        </tr>
+      </thead>
+      <tbody style="font-size: large; font-weight: bold; font-variant: small-caps; line-height: 40px;">
+        <tr *ngFor="let item of openworld ">
+          <td style="color: yellow; font-weight: bold;">{{item.gamename}}</td>
+          <td>{{item.genere}}</td>
+          <td >{{item.description}}</td>
+          <td>{{item.requirements}}
+            <ul>
+              <li>CPU: Intel Core i3-4370 / AMD FX-6350.</li>
+              <li>RAM: 8 GB.</li>
+              <li>VIDEO CARD: NVIDIA GeForce GTX 650 / AMD Radeon HD 6850.</li>
+              <li>DEDICATED VIDEO RAM: 1024 MB.</li>
+              <li>OS: Windows 10 64-Bit</li>
+            </ul>
+          </td>
+          <td><img [src]="item.img" alt="" width="300px" height="200px"> </td>
+          <td style="padding-left: 50px; padding-top: 150px; color: yellow;">{{item.price}}</td>
+          <td style="padding: 100px;"><a routerLink=""><button>Buy</button></a> </td>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </div>
+  </div>

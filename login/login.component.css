@@ -1,0 +1,24 @@
+.login-block{
+  float:left;
+  width:100%;
+  padding : 50px 0;
+}
+
+.container{background:transparent; border:1px solid whitesmoke; border-radius: 10px; width: 40%; height: 40%;}
+.login-sec{padding: 50px 30px; position:relative;}
+.login-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color:whitesmoke;}
+.login-sec h2:after{content:" "; width:100px; height:5px; background:green; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background:green; color:#fff; font-weight:600;margin:0px 45%;}
+
+
+.form-group label{
+  color:whitesmoke;
+  font-variant: small-caps;
+}
+
+.form-group{
+  color:whitesmoke;
+}
+.form-group a{
+  color:red;
+}

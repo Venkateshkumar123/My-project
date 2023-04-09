@@ -1,0 +1,21 @@
+*
+{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.totalnav nav a{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.navbar a{
+  color:whitesmoke;
+}
+
+.totalnav nav a:hover{
+  color:lightskyblue;
+}
