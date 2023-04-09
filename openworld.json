@@ -1,0 +1,51 @@
+{
+  "products2": [
+
+    {
+      "gamename": "GTA V",
+      "genere": "Action,Open World,MP",
+      "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. Government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city ...",
+      "requirements": "",
+      "img":"../assets/images/Gta v.jpg"
+    },
+    {
+      "gamename": "Gourians Galaxy",
+      "genere": "Action,Open World,MP,Battle royle",
+      "description": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+      "requirements": "",
+      "img":"../assets/images/gg.jpg"
+    },
+    {
+      "gamename":"GTA 4",
+      "genere": "Action,Open World,RPG",
+      "description": "Niko Bellic, an Eastern European war veteran, migrates to Liberty City to forget the horrific and graphic memories of his past and for a better life, things don't come out as planned as he has to wipe out mobsters and loan sharks that are preventing his cousin, Roman from making money freely.",
+      "requirements": "",
+      "img":"../assets/images/Gta 4.jpg"
+    },
+    {
+      "gamename":"Cyber Punk",
+      "genere": "Action,Open World",
+      "description": "The main story follows V's struggle as they deal with a mysterious cybernetic implant that threatens to overwrite their body with the personality and memories of a deceased celebrity only perceived by V; the two must work together to be separated and save V's life",
+      "requirements": "",
+      "img":"../assets/images/Cyberp.jpg"
+    },
+    {
+      "gamename":"Call of Duty Black ops coldwar",
+      "genere": "Action,Open World,Zombie,Horror,MP,Battle Royle",
+      "description": "Call of Duty: Black Ops Cold War is set during the Cold War in the early 1980s. The campaign follows Green Beret turned CIA SAD/SOG officer Russell Adler (Bruce Thomas) and his mission to stop an international espionage threat named Perseus (William Salyers) in 1981.",
+      "requirements": "",
+      "img":"../assets/images/codbc.jpg"
+    },
+    {
+      "gamename":"Red Dead Redemtion 2",
+      "genere": "Action,Open World",
+      "description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+      "requirements": "",
+      "img":"../assets/images/rdr2.jpg"
+    }
+
+  ]
+
+
+
+  }

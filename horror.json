@@ -1,0 +1,49 @@
+{
+  "products3": [
+
+    {
+      "gamename": "Resident Evil Village",
+      "genere": "Action,Horrror,MP",
+      "description": "Ethan Winters' wife & daughter are kidnapped and brought to a village deep within the snowy mountains of Europe. There he must fight against various monsters such as Vampires, Lycans, Wolves, Witches, Fishmen, Dolls, Zombies & industrial abominations in order to save his family from the evil Mother Miranda.",
+      "requirements": "",
+      "img":"../assets/images/rev.jpg"
+    },
+    {
+      "gamename": "Phasmophobia",
+      "genere": "Horror,MP,SP",
+      "description": "Phasmophobia is a horror investigation survival game played from a first-person perspective. The player works solo or in a group with up to three other players to complete a contract in which they must identify the type of ghost haunting the specified site.",
+      "requirements": "",
+      "img":"../assets/images/pp.jpg"
+    },
+    {
+      "gamename":"Evil Inside",
+      "genere": "Horror,Physco Thriller",
+      "description": "Evil Inside is a first-person psychological horror game. After the death of his mother and the arrest of his father for it, Mark decides to contact her using the Spiritual board. But it fades away, and here is when all begins... Mark will face his greatest fears to discover the truth..",
+      "requirements": "",
+      "img":"../assets/images/ei.jpg"
+    },
+    {
+      "gamename":"Outlast",
+      "genere": "Horror,Physco Thriller",
+      "description": "Outlast is a 2013 first-person survival horror video game developed and published by Red Barrels. The game revolves around a freelance investigative journalist, Miles Upshur, who decides to investigate a remote psychiatric hospital named Mount Massive Asylum, located deep in the mountains of Lake County, Colorado.",
+      "requirements": "",
+      "img":"../assets/images/ol.jpg"
+    },
+    {
+      "gamename":"Dead By Daylight",
+      "genere": "Action,Horror,Zombie,MP",
+      "description": "Dead by Daylight is an asymmetrical horror game where one player is the Killer and the other four are Survivors. The Survivors' objective is to escape the map by repairing five of seven generators scattered throughout it to power the two exit gates.",
+      "requirements": "",
+      "img":"../assets/images/dbd.jpg"
+    },
+    {
+      "gamename":"Visage",
+      "genere": "Horror,Physco Thriller",
+      "description": "Plot. In 1985 at a suburban home, a man named Dwayne Anderson shoots and kills his wife and two children before committing suicide. Later, Dwayne is depicted waking up in a bloody, empty room. After exiting it, he hears a voicemail from neighbor Rose, who has not seen him out of his house in three weeks.",
+      "requirements": "",
+      "img":"../assets/images/visage.png"
+    }
+
+  ]
+
+}

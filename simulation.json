@@ -1,0 +1,52 @@
+{
+  "products4": [
+
+    {
+      "gamename": "Euro Truck simulator 2",
+      "genere": "Open World,Realistic, Driving",
+      "description": "Euro Truck Simulator 2 is a truck driving simulator with business management elements. Players drive articulated trucks in an open world rendition of Europe, delivering loads to a designated locations in order to be compensated with money and experience points..",
+      "requirements": "",
+      "img":"../assets/images/ets2.jpg"
+    },
+    {
+      "gamename": "Bus Simulator-2021",
+      "genere": "Open World,Realistic, Driving,MP,SP",
+      "description": "Get ready for the brand-new, impressive US map Angel Shores and a revamped version of the European Seaside Valley map from the previous game installment – including its map extension. The even greater open-world approach of Bus Simulator 21 means that you will get to experience the exciting daily life of a bus driver in two massive, freely explorable cities, including industrial and outlying districts, a vibrant Chinatown district, a promenade, the surrounding hilly countryside, and the business park. Different difficulty levels and play modes are also available for a wide range of player types.",
+      "requirements": "",
+      "img":"../assets/images/bs21.jpg"
+    },
+    {
+      "gamename":"Police Patrol Simulator",
+      "genere": "Real Life Crimes,Realistic Lifestyle Police",
+      "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a Police Officer. Start with citing violations and giving out parking tickets, then work your way towards shouldering more responsibilities. Be part of the community of Brighton, get to know your neighborhood and handle daily police work to fight crime during your shift. Always be tough, but fair: respect the law and gain more experience to unlock more neighborhoods, districts and duties..",
+      "requirements": "",
+      "img":"../assets/images/psp.jpg"
+    },
+    {
+      "gamename":"PC Building Simulator 2",
+      "genere": "Pc Service,Repair,Realistic Experience",
+      "description": "The player has responsibility of a workshop named Tim's Red Hot Repair where he/she must complete tasks that involve such as modifying pre-built computers, removing viruses, adding new parts, diagnosing or building a brand new computer to earn in-game cash, which can be spent on purchasing new or used parts.",
+      "requirements": "",
+      "img":"../assets/images/Pcbs2.jpg"
+    },
+    {
+      "gamename":"Construction Building",
+      "genere": "building Simulation,SP,MP",
+      "description": "Construction Simulator is an ultra-realistic sim title. Moreover, its vast number of tasks will occupy you for hours. I adored its blend of jobs, range of vehicles, and massive maps. However, I would have liked the visuals to be more polished and the music to be more varied.",
+      "requirements": "",
+      "img":"../assets/images/construction.jpg"
+    },
+    {
+      "gamename":"Train Simulator 2021",
+      "genere": "Realistic Driving,Open-World,Experince",
+      "description": "What is Train Simulator the story of forest rail? Featuring custom-built Japanese buildings and trackside detailing, prototypical signalling and 15 stations along its main line and branch line, The Story of Forest Rail brings a unique feel to Train Simulator with its story based scenarios and two distinctive railbuses – the Kiha 750 and Kiha 720.",
+      "requirements": "",
+      "img":"../assets/images/ts21.jpg"
+    }
+
+  ]
+
+
+
+
+  }

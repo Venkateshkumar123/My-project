@@ -1,0 +1,269 @@
+{
+
+"products": [
+
+  {
+    "gamename": "Crime Boss Rock City",
+    "genere": "Action,Open World",
+    "description": "Crime Boss: Rockay City is a 90s action-flick fever dream in game form. Set in a fictional town peppered with bad dudes and drug deals, players are armed to the teeth and sent on satisfyingly violent first-person missions to one-up the opposition.",
+    "requirements": "",
+    "img":"../assets/images/cb.jpg",
+    "price":"Rs:1700"
+  },
+  {
+    "gamename": "Tchia",
+    "genere": "Action,Open World,MP",
+    "description": "Join Tchia on her tropical open-world adventure as she sets off to rescue her father from the cruel tyrant, Meavora, ruler of the archipelago. Climb, glide, swim, and sail your boat around beautiful islands as you explore a physics-driven sandbox. Face the fabric soldiers created by Meavora in open encounters where your creativity gives you the edge. Take control of any animal or object you can find, make new friends and jam on your fully playable Ukulele.A poetic coming-of-age story inspired by New Caledonia.",
+    "requirements": "",
+    "img":"../assets/images/tc.png",
+    "price":"Rs:200"
+  },
+  {
+    "gamename":"The Last of Us",
+    "genere": "Action,Open World,RPG,Stratergy",
+    "description": "Experience the emotional storytelling and unforgettable characters in The Last of Us™, winner of over 200 Game of the Year awards.In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
+    "requirements": "",
+    "img":"../assets/images/lou.jpg",
+    "price":"Rs:2700"
+  },
+  {
+    "gamename":"Saints Row Platinum",
+    "genere": "Action,Open World",
+    "description": "Set within the fictional city of Santo Ileso, loosely based on Las Vegas, the single-player story follows a group of four friends who start their own outlaw gang called The Saints, which they subsequently expand by seizing power from other criminal organizations in the city.",
+    "requirements": "",
+    "img":"../assets/images/srp.jpg",
+    "price":"Rs:250"
+  },
+  {
+    "gamename":"Dead island 2",
+    "genere": "Action,Open World,Zombie,Horror",
+    "description": "Plot. About 10 years after the events of Dead Island, the United States government and US military are forced to put California under a full quarantine restricted zone due to a new and stronger zombie outbreak.",
+    "requirements": "",
+    "img":"../assets/images/di2.jpg",
+    "price":"Rs:400"
+  },
+  {
+    "gamename":"Fortnite",
+    "genere": "Action,Open World,battle Royle",
+    "description": "Fortnite: Save the World is a player-versus-environment cooperative game, with four players collaborating towards a common objective on various missions. The game is set after a fluke storm appears across Earth, causing 98% of the population to disappear, and the survivors to be attacked by zombie-like",
+    "requirements": "",
+    "img":"../assets/images/frn.jpg",
+    "price":"Free To Play"
+  }
+
+],
+
+"products2": [
+
+  {
+    "gamename": "GTA V",
+    "genere": "Action,Open World,MP",
+    "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. Government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city ...",
+    "requirements": "",
+    "img":"../assets/images/Gta v.jpg",
+    "price":"Rs:2800"
+  },
+  {
+    "gamename": "Gourians Galaxy",
+    "genere": "Action,Open World,MP,Battle royle",
+    "description": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+    "requirements": "",
+    "img":"../assets/images/gg.jpg",
+    "price":"Rs:700"
+  },
+  {
+    "gamename":"GTA 4",
+    "genere": "Action,Open World,RPG",
+    "description": "Niko Bellic, an Eastern European war veteran, migrates to Liberty City to forget the horrific and graphic memories of his past and for a better life, things don't come out as planned as he has to wipe out mobsters and loan sharks that are preventing his cousin, Roman from making money freely.",
+    "requirements": "",
+    "img":"../assets/images/Gta 4.jpg",
+    "price":"Rs:500"
+  },
+  {
+    "gamename":"Cyber Punk",
+    "genere": "Action,Open World",
+    "description": "The main story follows V's struggle as they deal with a mysterious cybernetic implant that threatens to overwrite their body with the personality and memories of a deceased celebrity only perceived by V; the two must work together to be separated and save V's life",
+    "requirements": "",
+    "img":"../assets/images/Cyberp.jpg",
+    "price":"Rs:3000"
+  },
+  {
+    "gamename":"Call of Duty Black ops coldwar",
+    "genere": "Action,Open World,Zombie,Horror,MP,Battle Royle",
+    "description": "Call of Duty: Black Ops Cold War is set during the Cold War in the early 1980s. The campaign follows Green Beret turned CIA SAD/SOG officer Russell Adler (Bruce Thomas) and his mission to stop an international espionage threat named Perseus (William Salyers) in 1981.",
+    "requirements": "",
+    "img":"../assets/images/codbc.jpg",
+    "price":"Rs:2700"
+  },
+  {
+    "gamename":"Red Dead Redemtion 2",
+    "genere": "Action,Open World",
+    "description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+    "requirements": "",
+    "img":"../assets/images/rdr2.jpg",
+    "price":"Rs:3200 50% Offer"
+  }
+
+],
+
+
+"products3": [
+
+  {
+    "gamename": "Resident Evil Village",
+    "genere": "Action,Horrror,MP",
+    "description": "Ethan Winters' wife & daughter are kidnapped and brought to a village deep within the snowy mountains of Europe. There he must fight against various monsters such as Vampires, Lycans, Wolves, Witches, Fishmen, Dolls, Zombies & industrial abominations in order to save his family from the evil Mother Miranda.",
+    "requirements": "",
+    "img":"../assets/images/rev.jpg",
+    "price":"Rs:1200 20% Offer"
+  },
+  {
+    "gamename": "Phasmophobia",
+    "genere": "Horror,MP,SP",
+    "description": "Phasmophobia is a horror investigation survival game played from a first-person perspective. The player works solo or in a group with up to three other players to complete a contract in which they must identify the type of ghost haunting the specified site.",
+    "requirements": "",
+    "img":"../assets/images/pp.jpg",
+    "price":"Rs:300 80% Offer"
+  },
+  {
+    "gamename":"Evil Inside",
+    "genere": "Horror,Physco Thriller",
+    "description": "Evil Inside is a first-person psychological horror game. After the death of his mother and the arrest of his father for it, Mark decides to contact her using the Spiritual board. But it fades away, and here is when all begins... Mark will face his greatest fears to discover the truth..",
+    "requirements": "",
+    "img":"../assets/images/ei.jpg",
+    "price":"Rs:100"
+  },
+  {
+    "gamename":"Outlast",
+    "genere": "Horror,Physco Thriller",
+    "description": "Outlast is a 2013 first-person survival horror video game developed and published by Red Barrels. The game revolves around a freelance investigative journalist, Miles Upshur, who decides to investigate a remote psychiatric hospital named Mount Massive Asylum, located deep in the mountains of Lake County, Colorado.",
+    "requirements": "",
+    "img":"../assets/images/ol.jpg",
+    "price":"Rs:1700 10% Offer"
+  },
+  {
+    "gamename":"Dead By Daylight",
+    "genere": "Action,Horror,Zombie,MP",
+    "description": "Dead by Daylight is an asymmetrical horror game where one player is the Killer and the other four are Survivors. The Survivors' objective is to escape the map by repairing five of seven generators scattered throughout it to power the two exit gates.",
+    "requirements": "",
+    "img":"../assets/images/dbd.jpg",
+    "price":"Rs:1900 60% Offer"
+  },
+  {
+    "gamename":"Visage",
+    "genere": "Horror,Physco Thriller",
+    "description": "Plot. In 1985 at a suburban home, a man named Dwayne Anderson shoots and kills his wife and two children before committing suicide. Later, Dwayne is depicted waking up in a bloody, empty room. After exiting it, he hears a voicemail from neighbor Rose, who has not seen him out of his house in three weeks.",
+    "requirements": "",
+    "img":"../assets/images/visage.png",
+    "price":"Rs:700"
+  }
+
+],
+
+"products4": [
+
+  {
+    "gamename": "Euro Truck simulator 2",
+    "genere": "Open World,Realistic, Driving",
+    "description": "Euro Truck Simulator 2 is a truck driving simulator with business management elements. Players drive articulated trucks in an open world rendition of Europe, delivering loads to a designated locations in order to be compensated with money and experience points..",
+    "requirements": "",
+    "img":"../assets/images/ets2.jpg",
+    "price":"Free To Play"
+  },
+  {
+    "gamename": "Bus Simulator-2021",
+    "genere": "Open World,Realistic, Driving,MP,SP",
+    "description": "Get ready for the brand-new, impressive US map Angel Shores and a revamped version of the European Seaside Valley map from the previous game installment – including its map extension. The even greater open-world approach of Bus Simulator 21 means that you will get to experience the exciting daily life of a bus driver in two massive, freely explorable cities, including industrial and outlying districts, a vibrant Chinatown district, a promenade, the surrounding hilly countryside, and the business park. Different difficulty levels and play modes are also available for a wide range of player types.",
+    "requirements": "",
+    "img":"../assets/images/bs21.jpg",
+    "price":"Rs:1700 25% Offer"
+  },
+  {
+    "gamename":"Police Patrol Simulator",
+    "genere": "Real Life Crimes,Realistic Lifestyle Police",
+    "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a Police Officer. Start with citing violations and giving out parking tickets, then work your way towards shouldering more responsibilities. Be part of the community of Brighton, get to know your neighborhood and handle daily police work to fight crime during your shift. Always be tough, but fair: respect the law and gain more experience to unlock more neighborhoods, districts and duties..",
+    "requirements": "",
+    "img":"../assets/images/psp.jpg",
+    "price":"Rs:1200"
+  },
+  {
+    "gamename":"PC Building Simulator 2",
+    "genere": "Pc Service,Repair,Realistic Experience",
+    "description": "The player has responsibility of a workshop named Tim's Red Hot Repair where he/she must complete tasks that involve such as modifying pre-built computers, removing viruses, adding new parts, diagnosing or building a brand new computer to earn in-game cash, which can be spent on purchasing new or used parts.",
+    "requirements": "",
+    "img":"../assets/images/Pcbs2.jpg",
+    "price":"Free"
+  },
+  {
+    "gamename":"Construction Building",
+    "genere": "building Simulation,SP,MP",
+    "description": "Construction Simulator is an ultra-realistic sim title. Moreover, its vast number of tasks will occupy you for hours. I adored its blend of jobs, range of vehicles, and massive maps. However, I would have liked the visuals to be more polished and the music to be more varied.",
+    "requirements": "",
+    "img":"../assets/images/construction.jpg",
+    "price":"Free"
+  },
+  {
+    "gamename":"Train Simulator 2021",
+    "genere": "Realistic Driving,Open-World,Experince",
+    "description": "What is Train Simulator the story of forest rail? Featuring custom-built Japanese buildings and trackside detailing, prototypical signalling and 15 stations along its main line and branch line, The Story of Forest Rail brings a unique feel to Train Simulator with its story based scenarios and two distinctive railbuses – the Kiha 750 and Kiha 720.",
+    "requirements": "",
+    "img":"../assets/images/ts21.jpg",
+    "price":"Rs:1000 50% Offer"
+  }
+
+],
+"products5": [
+
+  {
+    "gamename": "Crew 2",
+    "genere": "Open World,Realistic, Driving",
+    "description": "The game features a nonlinear story, that follows the unnamed player character as they become a racing icon in the United States by winning in all racing disciplines available in the game. There are four disciplines: Street Racing, Off Road, Freestyle and Pro Racing.",
+    "requirements": "",
+    "img":"../assets/images/crew2.jpg",
+    "price":"Rs:400"
+  },
+  {
+    "gamename": "Forza Horizon 4",
+    "genere": "Open World,Realistic, Driving,MP,SP",
+    "description": "Horizon Stories are special missions which mix up all the gameplay types that Forza Horizon 4 has to offer, along with having some unique stories to tell..",
+    "requirements": "",
+    "img":"../assets/images/forzahorizon 4.jpg",
+    "price":"Rs:3000"
+  },
+  {
+    "gamename":"Forza Horizon 5",
+    "genere": "Open World,Realistic, Driving,MP,SP",
+    "description": "Forza Horizon 5's Drive Story missions are like side quests - and as such, some will be better than others. Forza Horizon 5 gives you the chance to explore areas of Mexico in a variety of different cars, both old and new.",
+    "requirements": "",
+    "img":"../assets/images/forza horizon5.jpg",
+    "price":"Rs:3500 20% Offer"
+  },
+  {
+    "gamename":"NFS Heat",
+    "genere": "Open World,Realistic, Driving,MP,SP",
+    "description": "When focusing on the main objectives, Need For Speed Heat is about 13 Hours in length. If you're a gamer that strives to see all aspects of the game, you are likely to spend around 49½ Hours to obtain 100% completion.",
+    "requirements": "",
+    "img":"../assets/images/nfsheat.jpg",
+    "price":"Rs:800"
+  },
+  {
+    "gamename":"Drift 2",
+    "genere": "Open World,Realistic, Driving,MP,SP",
+    "description": "Grease Monkey Games is preparing continuous releases of interactive experiences for Torque Drift 2, including a tuning garage coming in Q3 2022, with the full release of the game expected in 2024",
+    "requirements": "",
+    "img":"../assets/images/drift2.jpg",
+    "price":"Rs:1700"
+  },
+  {
+    "gamename":"MotoGp 2",
+    "genere": "Realistic Driving,Open-World,Experince",
+    "description": "He currently competes in the Indian National Motorcycle Supersport 165cc Championship, boarding Honda. Sarath began his racing career in 2008 with the Ten10 Racing Team (now the WTR-Ten10 Racing team) and competed in the 125cc class in the 2011 MotoGP....",
+    "requirements": "",
+    "img":"../assets/images/motogp.jpg",
+    "price":"Free To Play"
+  }
+
+]
+
+
+}
